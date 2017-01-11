@@ -1,6 +1,6 @@
 {
   "name": "kb-schemas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just validation schemas",
   "main": "index.js",
   "scripts": {
