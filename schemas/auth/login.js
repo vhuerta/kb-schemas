@@ -6,7 +6,8 @@ module.exports = {
       format: 'email'
     },
     password: {
-      type: 'string'
+      type: 'string',
+      minLength: 1
     }
   },
   required: ['email', 'password']
